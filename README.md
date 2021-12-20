@@ -1,3 +1,2 @@
-# blog
+# blog staj
 Blade
-idea
